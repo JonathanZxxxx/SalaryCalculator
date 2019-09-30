@@ -47,7 +47,7 @@ namespace SalaryCalculator
                     return;
                 }
                 decimal hour = Convert.ToDecimal(MonthTextBox.Text);
-                if (hour > 80 && IsInternshipCheckBox.Checked)
+                if (hour >= 80 && IsInternshipCheckBox.Checked)
                 {
                     motivateSalary = 500;
                 }
