@@ -263,13 +263,14 @@
             // 
             this.版本号V10ToolStripMenuItem.Name = "版本号V10ToolStripMenuItem";
             this.版本号V10ToolStripMenuItem.Size = new System.Drawing.Size(212, 22);
-            this.版本号V10ToolStripMenuItem.Text = "版本号:V1.0";
+            this.版本号V10ToolStripMenuItem.Text = "版本号:V1.1";
+            this.版本号V10ToolStripMenuItem.Click += new System.EventHandler(this.版本号V10ToolStripMenuItem_Click);
             // 
             // 发布日期2019年8月19日ToolStripMenuItem
             // 
             this.发布日期2019年8月19日ToolStripMenuItem.Name = "发布日期2019年8月19日ToolStripMenuItem";
             this.发布日期2019年8月19日ToolStripMenuItem.Size = new System.Drawing.Size(212, 22);
-            this.发布日期2019年8月19日ToolStripMenuItem.Text = "发布日期:2019年8月19日";
+            this.发布日期2019年8月19日ToolStripMenuItem.Text = "发布日期:2019年9月30日";
             // 
             // Form1
             // 
