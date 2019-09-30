@@ -126,5 +126,10 @@ namespace SalaryCalculator
                 DayTextBox2.Show();
             }
         }
+
+        private void 版本号V10ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
